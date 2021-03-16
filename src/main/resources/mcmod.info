@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oofdiscord",
+  "name": "Discord Staff Checker",
+  "description": "Discord staff checker",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Oof"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
